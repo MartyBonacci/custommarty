@@ -3,7 +3,7 @@
 	<head>
 		<style>
 			body {
-				background-image: height: auto; url("images/marty-on-mt-taylor.jpg");
+				background-image: height:auto url("images/marty-on-mt-taylor.jpg");
 
 			}
 		</style>
