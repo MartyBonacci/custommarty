@@ -3,9 +3,8 @@
 	<head>
 		<style>
 			body {
-				background-image: url("images/marty-on-mt-taylor.jpg");
-				width: 500px;
-				height: auto;
+				background-image: height: auto; url("images/marty-on-mt-taylor.jpg");
+
 			}
 		</style>
 	</head>
