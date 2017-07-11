@@ -4,7 +4,7 @@
 		<style>
 			body {
 				background-image: url("images/marty-on-mt-taylor.jpg");
-				width: auto;
+
 				height: auto;
 			}
 		</style>
